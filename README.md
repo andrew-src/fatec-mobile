@@ -1,4 +1,5 @@
-## Programação para Dispositivos Móveis I 📚
-- Material das aulas da FATEC 🏫
+## 💻 Programação para Dispositivos Móveis I 📲
 
-Deployment via github pages: https://eoandrw.github.io/fatec-mobile/
+📜 Material das aulas da FATEC 
+
+🚀 Deployment via github pages: https://eoandrw.github.io/fatec-mobile/ 
